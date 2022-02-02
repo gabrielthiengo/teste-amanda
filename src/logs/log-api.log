@@ -1,0 +1,39 @@
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+error: User already exists
+info: User created successfully
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: User deleted successfully
+error: Could not find any entity of type "User" matching: {
+    "id": "864509f8-9afd-4622-9948-6178021aca3f"
+}
+info: Server is running
+error: User does not exists
+info: Server is running
+info: User created successfully
+info: Server is running
+error: User already exists
+info: User created successfully
+info: Server is running
+info: Server is running
+info: User created successfully
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
+info: Server is running
